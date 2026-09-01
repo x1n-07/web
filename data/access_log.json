@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "receivedAt": "2026-08-28T08:52:15.486Z",
+    "timestamp": "2026-08-28T15:52:14.2960238+07:00",
+    "osName": "Windows",
+    "browserEngine": "Blink",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)...",
+    "deviceModel": "EliteBook (estimasi)",
+    "geo": {
+      "city": "Jakarta",
+      "accuracy": 10,
+      "source": "gps",
+      "region": "Jakarta",
+      "lat": -6.2088,
+      "lng": 106.8456,
+      "country": "Indonesia"
+    },
+    "deviceVendor": "HP",
+    "cpuCores": 8,
+    "browserName": "Chrome",
+    "ip": "180.252.120.45",
+    "browserVersion": "128.0.0",
+    "viewportSize": "1920x950",
+    "deviceType": "desktop",
+    "language": "id-ID",
+    "asn": "AS17974",
+    "osVersion": "11",
+    "screenResolution": "1920x1080",
+    "deviceMemory": "16 GB",
+    "isp": "PT Telekomunikasi Indonesia",
+    "serverIp": "::1"
+  }
+]
